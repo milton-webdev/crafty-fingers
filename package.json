@@ -1,0 +1,22 @@
+{
+  "name": "crafty",
+  "version": "1.0.0",
+  "description": "Crafty FIngers Website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "start "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milton-webdev/crafty-fingers.git"
+  },
+  "keywords": [
+    "crafty"
+  ],
+  "author": "milton-webdev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/milton-webdev/crafty-fingers/issues"
+  },
+  "homepage": "https://github.com/milton-webdev/crafty-fingers#readme"
+}
